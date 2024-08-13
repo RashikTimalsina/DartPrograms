@@ -1,0 +1,62 @@
+home_screen.dart
+
+import 'package:flutter/material.dart';
+
+
+class Homescreen extends StatefulWidget {
+const Homescreen({super.key});  
+   
+
+  @override
+  State<Homescreen> createState() => _Homescreenstate();
+}
+
+class _Homescreenstate extends State<Homescreen> {
+
+  String imageUrl =
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkz0-kdWqEztRuqFaRIA1SKdWTKfW-4qMmF2BgfSpFEE9TgbmG3W_emb8ZspeCI4Sxpw&usqp=CAU";
+
+  
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Colors.blueAccent,
+        titleTextStyle: const TextStyle(
+          color: Colors.white,
+          fontSize: 24,
+        ),
+        title: const Text("Login Page"),
+      ) ,
+
+      body:Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: Column(
+          children: [
+            
+            Row(
+              children: [
+                Image.network(
+                  imageUrl,
+                height:50,
+                width:50,
+                ),
+              
+             
+              ]
+        
+            ),
+        
+            // Text(
+            //   "Flutter",
+            //   style:TextStyle(fontSize: 50, fontWeight: FontWeight.w200),
+            // )
+        
+          ],
+        
+        ),
+      )
+      );
+  }
+}

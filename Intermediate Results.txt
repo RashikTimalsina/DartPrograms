@@ -1,0 +1,12 @@
+Intermediate Results:
+The results which are stored before giving it to the user 
+
+CPU functions
+1) interpretation
+2)Execution
+3)control
+
+CPu is also called logic machine.
+Fetching the program in sequence.
+
+Control Structures:

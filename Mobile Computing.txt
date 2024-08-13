@@ -1,0 +1,12 @@
+Mobile Computing
+1) Main concept of mobile computing includes:
+a)MObile Communication
+b)Mobile Hardware
+c)Mobile Software
+
+being able to use a computing device even being mobile. 
+Portability is main key of mobile computing.
+Inculdes devices that is battery powered(Longer batttery life), portable and  wireless comoputing and communication devices.
+
+
+

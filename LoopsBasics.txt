@@ -1,0 +1,44 @@
+void main(){
+  
+/*   for(initialisation; condition; increment/decrement){
+    
+     Statement;
+    
+  }
+
+*/
+  
+  
+   for(int i=0; i<5; i++){
+    
+     print("Parichit");
+     
+   }
+  
+  for(int a=0; a<=5; a++){
+    
+    print("Rashik");
+    
+  }
+  
+  for(int x=5; x>=0; x--){
+    
+    print("Hello");
+    
+    
+    
+  }
+  
+  var number=[1, 2, 3, 4, 5];
+  for(int i in number){
+    
+    print(i);
+    
+  }
+  
+  
+  
+  
+
+
+}

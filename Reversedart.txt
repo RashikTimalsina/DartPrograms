@@ -1,0 +1,14 @@
+
+    String word="name";
+    String reversedWord="";
+  
+  int wordLength=word.length;
+  
+  print("The length of word is ${wordLength}");
+  
+  for(int i=0;i<wordLength;i++){
+    
+      print(word[wordLength-1-i]);
+      
+    
+  }

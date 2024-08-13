@@ -1,0 +1,9 @@
+Write a dart function named add that takes two parameters and returns their sum.
+
+Create a function calculateArea that calculates and returns the area of rectange given its length and width.
+
+Implement a Dart function isEven that checks if a given number is even and returns a Boolean value,
+
+Write a function printNumbers that prints all numbers fom 1 to a given parameter.
+
+Develop a dart function findMax that finds and returns the max value among three given numbers.

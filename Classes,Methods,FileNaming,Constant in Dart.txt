@@ -1,0 +1,56 @@
+void main(){
+  
+    var firstName="Rashik";
+    var lastName="Timalsina";
+    
+    var fullName= firstName + " " +lastName;
+    
+    print(fullName);
+  
+  
+  //variables
+    int testingNumber=5;
+    bool isItWorking=true;
+  
+    print(testingNumber);
+    print(isItWorking);
+  
+  
+  //methods
+    void getLastNumber()  {
+      
+      
+    }
+    void printLastNumber() { 
+    
+    
+    }
+  
+    
+    //classes in dart
+    
+    class StudentsRecord{
+      
+      
+      
+      
+    }
+  
+    class TestUser{
+      
+      
+      
+    }
+  
+  
+    //file naming
+    
+      main_file.dart
+      test_user.data.dart
+        
+    
+        //constant(Streaming case)
+      const UserID=1;
+      const TestData=2;
+  
+}

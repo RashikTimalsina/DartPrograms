@@ -1,0 +1,33 @@
+// void main(){
+
+//   Switch Case  Default statements
+  
+//     switch(expression){
+        
+        
+//           case value1;
+//           statements
+        
+         
+//           case value2;
+//           statements
+        
+            
+//           case value3;
+//           statements
+        
+          
+//           case value4;
+//           statements
+        
+          
+//           case value5;
+//           statements
+        
+//             default:
+//           Statements
+            
+//     }
+  
+  
+// }

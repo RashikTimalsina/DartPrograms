@@ -1,0 +1,10 @@
+return_type function_name(){
+
+	//Body of the function
+
+	return value;
+
+}
+
+It should be executed
+

@@ -1,0 +1,27 @@
+void main(){
+  
+//   List type=["Ram","Hari", "Shyam", "Nikesh", "Asshish"];
+//     print(type);
+  
+ 
+//   for(int i=0;i<type.length;i++){
+    
+//       print(type);
+    
+//   }
+  
+  
+  List<String> name=["Nikesh","Ranjan", "Rashik" , "Asshish"];
+    
+    print(name);
+    
+  for(int i=4;i>name.length;i--){
+     print(name[i]); 
+  }
+  
+ 
+
+  
+  
+  
+}

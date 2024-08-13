@@ -1,0 +1,28 @@
+void main()
+{
+  
+    int a=-12;
+    
+  if(a>=0){
+    
+    print("Number is positive");
+    
+    
+  }
+  
+  else if(a==0){
+    
+      print("Number is O");
+    
+    
+  }
+      
+  else{
+    
+      print("Number is negative");
+    
+  }
+      
+  
+  
+}

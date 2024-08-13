@@ -1,0 +1,8 @@
+String? name(){
+  
+    return null;
+  
+}
+
+String? value=name();
+  print(value);

@@ -1,0 +1,24 @@
+ int count=10;
+  while(count !=count){
+    
+      print("While executed");
+    count--;
+    
+  }
+  
+  
+  print("");
+  
+  do{
+    
+    
+      print("Do executed");
+      count--;
+    
+    
+    
+  }
+  while(count!=count);
+  
+  
+}

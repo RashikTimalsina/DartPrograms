@@ -1,0 +1,27 @@
+void main(){
+  
+  
+ 
+    String? name;
+    print(name);  
+  
+    name="Rashik";
+    print(name);
+    
+    print(name!.length);      // ! means it cannot be empty(frequently used)
+    print(name?.length);      //                            (frequently used)
+   
+    
+    name=null;
+//     name="Ram";
+    print(name ?? "The value is null");   //This will be printed only if the value assigned is null(frequently used)
+  
+  
+  
+    name??="Rashik";
+    print(name);
+  
+  
+  
+  
+}

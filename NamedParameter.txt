@@ -1,0 +1,16 @@
+void main(){
+  
+  
+    printName(name:"Ram", age: 18, address: "Imadol");
+  
+    
+  
+}
+
+void printName({ required String name, required int age, required String address}){
+  
+  print("My name is $name");
+   print("My age is $age");
+   print("My address is $address");
+  
+}

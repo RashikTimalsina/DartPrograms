@@ -1,0 +1,71 @@
+void main(){
+  
+//   Syntax for do while loop:
+  
+//     variable declaration
+//   do{
+      
+//         Statement;
+//           count;
+      
+//     }
+//     while(condition);
+  
+  
+  
+//   int count=10;
+//   do{
+    
+//       print(count);
+//       count--;
+    
+//   }
+//   while(count>=0);
+  
+  
+//   Fibonacci Series
+  
+//   int a=0;
+//   int b=1;
+//   int c;
+  
+//   do{
+      
+//     c=a+b;
+//     print(c);
+//     a++;
+//   }
+//    while(c<=10);
+      
+  
+//   Print the sum of all Even numbers from 2 to 50 using while loops
+    
+  
+//   int sum=0;
+//   int i=2;
+   
+//   do{
+//     if(i%2==0){
+//       sum=sum+i;
+//       print(sum);
+//     }
+//       i++;
+//   }
+//   while(i<50);
+  
+  
+    
+    
+//     int a=0;
+//   int i=1;
+//   do{
+    
+//       a=4*i;
+//       print("4 * $i = $a");
+//       i++;
+      
+//       }while(i<=10);
+    
+    
+  
+// }

@@ -1,0 +1,7 @@
+Questions:
+
+1) Take two number as an input and perform addition betweeen them. (Convert the string to int)
+
+2) Take the length and breadth of a rectangle as an input and calculate the area of a rectngle.
+
+3) Take three number as an input and find the greatest number among the three.

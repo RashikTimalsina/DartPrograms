@@ -1,0 +1,158 @@
+void main(){
+  
+//     String gender="m";
+    
+//     switch(gender){
+        
+//         case=="M":
+//         case=="m":
+//         print("Male");
+    
+//         case=="F":
+//         case=="f":
+//         print("Female");
+        
+//       default:
+//         print("Invalid");
+        
+//     }
+  
+//     String char="c";
+  
+//   switch(char){
+      
+//       case=="a":
+//        case=="e":
+//        case=="i":
+//        case=="o":
+//        case=="u":
+      
+//       print("vowel");
+      
+  
+//     default:
+//      print("consonant");
+      
+//   }
+  
+  
+//   String remark="A";
+  
+//   switch(remark){
+      
+//         case=="A":
+//       print("Excellent");
+      
+      
+//         case=="B":
+//       print("very good");
+      
+//         case=="C":
+//       print("Good");
+      
+      
+//         case=="D":
+//       print("Not bad");
+      
+//       case=="E":
+//       print("Just Passed");
+      
+//       case=="F":
+//       print("Fail");
+
+      
+//     default:
+//       print("Invalid Input");
+      
+//   }
+    
+  
+//   int age=20;
+//   int response=(age>=18?1:0);
+  
+//   switch(response){
+      
+//         case==1:
+      
+//         print("You can vote");
+      
+      
+//       case==0:
+   
+//       print("You canont vote");
+      
+//   }
+ 
+  
+//     int number=25;
+//     int response=number%2==0 ?1:0;
+  
+//     switch(response){
+        
+//          case==1:
+//           print("The number is even");
+        
+//       default:
+//         print("The number is odd");
+
+        
+        
+        
+//         int num1=12;
+//         int num2=5;
+  
+//       String sign="*";
+    
+//         switch(sign){
+            
+//               case("+"):
+                
+//                   print("$num1 + $num2 = ${num1+num2}");
+                
+                
+//                   case("-"):
+                
+//                   print("$num1 - $num2 = ${num1-num2}");
+                    
+                    
+//                       case("*"):
+                
+//                   print("$num1 * $num2 = ${num1*num2}");
+                        
+                        
+//                           case("/"):
+       
+//                   print("$num1 / $num2 = ${num1/num2}");
+            
+            
+//                    default:
+                
+//                         print("Invalid Sign");
+                
+              
+//               }
+            
+            
+//         }
+        
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

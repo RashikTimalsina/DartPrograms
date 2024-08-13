@@ -1,0 +1,63 @@
+void main(){
+  
+  
+//     Palindrome
+//       A palindrome is a word, phrase number or other sequence 
+  
+  
+//     eg. radar,bob
+    
+    
+    
+    String word="bob";
+    String reversedWord="";
+  
+  int wordLength=word.length;
+  
+  print("The length of word is ${wordLength}");
+  
+  for(int i=0;i<wordLength;i++){
+    
+//       print(word[wordLength-1-i]);a
+    
+    
+
+    
+    reversedWord=reversedWord + word[wordLength-1-i];
+  }
+  
+  
+  print(reversedWord);
+  
+  if(word==reversedWord){
+    
+    print("The number is palindrome");
+    
+    
+    
+  }
+  else{
+      
+    print("The number is not palindrome");
+    
+  }
+  
+  
+//   if(word==reversedWord){
+    
+//     print("The word is a palindrome");
+    
+    
+    
+//   }
+//     else{
+      
+//         print("The word is not palindrome");
+      
+      
+//     }
+  
+  
+  
+  
+}

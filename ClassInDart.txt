@@ -1,0 +1,11 @@
+Syntax of Class
+
+class class_name{
+
+	fields
+	getters,setterss
+	constructors
+	functions
+	
+
+	}

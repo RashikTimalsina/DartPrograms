@@ -1,0 +1,5 @@
+BANDWIDTH
+Data carrying  capacity of a communication
+mobile software
+mobile hardware
+mobile computing
